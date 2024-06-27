@@ -3,13 +3,13 @@
 <img src="./Img/MyGithubBackGround1.png">
 - 🌱 I’m currently learning **Mern Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://vijaymayhul.000webhostapp.com/](https://vijaymayhul.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://vijay-portfolio-js.netlify.app/)
 
-- 💬 Ask me about **Java, Python, PHP, HTML, CSS, Java-script, Bootstrap**
+- 💬 Ask me about **Java, Python, PHP, HTML, CSS, Java-script, Bootstrap, React**
 
 - 📫 How to reach me **vijaymayhul@gmail.com**
 
-- 📄 Know about my experiences [https://vijaymayhul.000webhostapp.com/packages/VJ_RESUME2023.pdf](https://vijaymayhul.000webhostapp.com/packages/VJ_RESUME2023.pdf)
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/1WnIUoSOwUx1QHApKYnYChpQW2efEoQzH/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm a passionate learner to explore new technologies**
 
